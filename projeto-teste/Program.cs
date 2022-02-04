@@ -12,6 +12,8 @@ namespace projeto_teste
         {
             Console.WriteLine("Projeto teste");
 
+            Console.WriteLine("Boa tarde");
+
             Console.ReadLine();
         }
     }
