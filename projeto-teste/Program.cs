@@ -14,6 +14,8 @@ namespace projeto_teste
 
             Console.WriteLine("Boa tarde");
 
+            Console.WriteLine("Como você está ?");
+
             Console.ReadLine();
         }
     }
